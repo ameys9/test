@@ -1,0 +1,5 @@
+{{#user}
+Name: Amey
+Skills: HTML, CSS, JS, React.js , Tailwind.css
+Email: ameysurve456@gmail.com
+{{/user}}
